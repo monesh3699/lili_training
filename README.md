@@ -40,12 +40,12 @@ How does an external party communicate with the team?
 
 Per team member:
 
-Name
-Contact Info
-Experience ( same categories as for team )
+Name: linthoj
+Contact Info: oiyi7y349r
+Experience ( same categories as for team )ergrtg
 Class year, e.g. sophomore, junior, etc
-Career Interests
-Personal Interests or hobbies
+Career Interestsgegtrgrtg
+Personal Interests or hobbiesggrtg
 A movie or book the member would recommend
-Member's most impactful weakness
-Member's Biggest strength
+Member's most impactful weaknessgetg
+Member's Biggest strengthgrtg
